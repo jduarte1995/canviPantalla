@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exempleCanviPantalla</string>
+    <string name="label1">Entra el nom</string>
+    <string name="btnCanvi">Envia</string>
+</resources>
